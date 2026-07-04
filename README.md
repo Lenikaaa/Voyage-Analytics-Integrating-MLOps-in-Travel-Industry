@@ -84,7 +84,9 @@ and integrates **MLflow, Airflow, Docker, Kubernetes, Jenkins, APIs, and Streaml
 │       └── recommander.py
 │
 ├── notebooks/                   # Experimentation & analysis
-│   └── Price_predictor.ipynb
+│   └── Gender_Classification_Model (1).ipynb
+│   └── Regression_Model.ipynb
+│   └── Travel_Recommendation_Model.ipynb
 │
 ├── k8s/                         # Kubernetes manifests
 │   ├── deployment.yaml
@@ -293,9 +295,8 @@ Secrets managed via Jenkins credentials.
 
 ## 👤 Author
 
-**Bharat Shewale**
+**Lenika Yogi**
 MS in Data Science & AI
-Aspiring ML Engineer / Data Scientist
 
 ---
 
